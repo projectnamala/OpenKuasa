@@ -10,7 +10,7 @@
 # up to date per build (it supports Next 13.5+, including 16).
 
 [build]
-  command = "next build"
+  command = "pnpm build"
   publish = ".next"
 
 [[plugins]]
